@@ -1,13 +1,13 @@
-theme: jekyll-theme-slate
+theme: minima #jekyll-theme-slate
 google_analytics: UA-109369485-1
 
-url: "https://coderdojotachikawa.github.io"
-baseurl: "https://coderdojotachikawa.github.io"
+url: ""
+baseurl: ""
 
 # Site settings
 title: 子どものためのプログラミング道場 - CoderDojo 立川
 email: coderdojo.tachikawa@gmail.com
-description: "東京都立川市で毎月開催"
+description: ""
 
 # Team names, titles and social links
 people:
