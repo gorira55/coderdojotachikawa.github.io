@@ -4,7 +4,7 @@
 <div class="row">
   <div class="col-md-12">
     <h4 style="background-color:#1169da; border-radius: 5px; color:#FFFFFF; padding:5px 0px 5px 10px;">
-        スタッフメンバー紹介
+        スタッフメンバー紹介です
     </h4>
     <p>
       メンバーはボランティアで協力頂いている方々です。それぞれの都合で参加いただいているので必ず毎回参加するとは限りません。<br/>
